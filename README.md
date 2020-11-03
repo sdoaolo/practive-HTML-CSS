@@ -1,4 +1,4 @@
-# practive-HTML-CSS
+# practice-HTML-CSS
 
 html css 막 공부 끝내고 실습 해보았다. (기능 한개도 없음)
 2020-01-05
